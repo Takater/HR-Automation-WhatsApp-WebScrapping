@@ -9,8 +9,11 @@
 >> - Módulo para atualizar tabela diária de colaboradores contratados que estão iniciando, a partir da tabela geral de contratações da empresa. 
 >> - Módulo para montar mensagens de boas-vindas, montar link URL para [API Whatsapp](api.whatsapp.com) com a mensagem personalizada e número de telefone do colaborador, abrir o Google Chrome (via Selenium), conectar ao Web Whastapp via cookies, enviar mensagem e arquivo de vídeo para cada colaborador da tabela diária, registrar que as mensagens foram enviadas naquele dia e caso algum envio falhe.
 > #### **A planilha utilizada na execução do Macro** não será adicionada ao repositório em respeito as normas LGPD em relação aos dados da empresa em questão.
-
 <br>
+
+> #### **Pré-Requisitos**:
+> - Pasta de Trabalho do Microsoft Excel Habilitado Para Macros (arquivo *.xlsm*)
+> - Selenium Basic v2.0.9.0 com ChromeDriver atualizado
 
 ## **Por**: Guilherme Moret
 ## **Empresa**: Grupo Rovema – Porto Velho, Rondônia, Brasil
